@@ -1,5 +1,5 @@
 ### Esse é um Mini-Resumo que escrevi aqui
-Subtítulo:*Algo, etc e por ai vai...*
+Subtítulo: *Algo, etc e por ai vai...*
 
 Sou Natan Cimadon
 
